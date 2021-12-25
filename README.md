@@ -2,10 +2,4 @@ O site My Chance aspira ao **estimulo da igualdade na seleção de candidatos e 
 
 O projeto foi desenvolvido durante a segunda turma da <a target="_blank" href="https://sites.google.com/view/oficinadeprojetosist/in%C3%ADcio">Oficina de Projetos InSocialTec</a>, tendo alcançado o **prêmio de 2º lugar**.
 
-
-
-
-Link para a pagina do Projeto no Site do IST
-Link para o site do IST
-Link para o pitch
-Link para o prototipo no figma# my_chance
+Por estes links, podes acessar a <a target="_blank" href="https://sites.google.com/view/oficinadeprojetosist/op-2%C2%AA-turma/equipe-h">descrição do projeto</a> no site do InSocialTec, o <a target="_blank" href="https://www.figma.com/proto/F2hoR8SgfJENtfzvXNNU6Q/My-Chance?node-id=311%3A546&scaling=scale-down&page-id=128%3A539&starting-point-node-id=128%3A540">protótipo</a> no Figma e a  <a target="_blank" href="https://www.youtube.com/watch?v=W16muk4xkug">gravação do Demoday</a> no Youtube.
